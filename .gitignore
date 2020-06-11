@@ -1,14 +1,10 @@
+.gradle/
+build/
+local.properties
+keystore.properties
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+.idea/
+.DS_STORE
+
+# API key is sensitive
+fabric.properties
